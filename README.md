@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gonçalo.
-- 👀 Currently working as an Android Developer, ~6 years of experience over multiple projects.
+- 👀 Currently working as an Android Developer, ~7 years of experience over multiple projects.
 - 🗺️ Based in [Coimbra, Portugal](https://goo.gl/maps/WmQPVFjy3f1QNLb99)
 
 <!---
